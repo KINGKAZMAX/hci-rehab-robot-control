@@ -1,0 +1,13 @@
+{
+  "slug": "hci-rehab-robot-control",
+  "dir": "rehab-robot-control",
+  "upstream": "AeroTechLab/RobotSystem-Lite",
+  "license": "LGPL-3.0",
+  "category": "康复 / 控制系统",
+  "validation": "Source and license archived; build requires external native dependencies",
+  "iteration": "康复会话、训练参数、数据日志的HCI研究概念；没有临床验证",
+  "upstreamCommit": "de6f4b1ec58195fc46c0680d1b5f8c521656f730",
+  "checkedAt": "2026-10-14",
+  "forkUrl": "https://github.com/KINGKAZMAX/hci-rehab-robot-control",
+  "contribution": "Categorization, provenance archive, portfolio documentation and conceptual HCI iteration. Upstream implementation remains attributed."
+}
